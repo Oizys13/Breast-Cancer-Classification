@@ -9,6 +9,8 @@
   - [Libraries Used](#libraries-used)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Model Training](#model-training)
+  - [Results](#results)
 
 ## Project Overview
 This project aims to develop machine learning and deep learning models to predict breast cancer diagnosis (benign or malignant) based on various features extracted from digitized images of breast tissue. The models utilize logistic regression for classification and a deep learning neural network to explore the effectiveness of advanced machine learning techniques in medical diagnosis.
